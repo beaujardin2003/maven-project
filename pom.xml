@@ -14,7 +14,7 @@
 
 		<mule.version>3.9.1</mule.version>
 		<mule.tools.version>1.7</mule.tools.version>
-		<activemq.version>5.15.10</activemq.version>
+		<activemq.version>5.15.16</activemq.version>
 		<uid>beaujardin2003</uid>
 		<pwd>password</pwd>
 	</properties>
